@@ -1,0 +1,19 @@
+{
+  "name": "ppi-2025-aula01",
+  "version": "1.0.0",
+  "description": "Primeira aula de NodeJS com Professor Renato",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyRossi6389/PPI-2025.git"
+  },
+  "author": "Victor Rossi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyRossi6389/PPI-2025/issues"
+  },
+  "homepage": "https://github.com/zyRossi6389/PPI-2025#readme"
+}
